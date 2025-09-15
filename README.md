@@ -94,7 +94,7 @@ Estas variables pueden introducir discriminación histórica o amplificar desigu
 ![Gráfico de Validación Cruzada](ModelComparisonGraph.png)
 
 ### 4.2 Modelo elegido (LinearRegression)
-![Gráfico del mejor modelo](LinearRegression.png.png)
+![Gráfico del mejor modelo](LinearRegression.png)
 
 
 ---
